@@ -10,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&color=36BCF7&center=true&vCenter=true&width=700&height=50&pause=1200&lines=Full-Stack+Developer;.NET+%C2%B7+Angular+%C2%B7+React;Jr.+Software+Developer+%7C+Santa+Cruz,+Bolivia)](https://git.io/typing-svg)
 
-[🇪🇸 Español](README.md) · 🇬🇧 English
+[**ES** Español](README.md) · **EN** English
 
 </div>
 
