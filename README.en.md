@@ -56,17 +56,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YoryoDev"><img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YoryoDev&theme=aura" alt="Top languages by commit" /></a>
-  <a href="https://github.com/YoryoDev"><img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YoryoDev&theme=aura" alt="Top languages by repo" /></a>
+  <a href="https://github.com/YoryoDev"><img height="150em" src="profile-summary-card-output/aura/2-most-commit-language.svg" alt="Top languages by commit" /></a>
+  <a href="https://github.com/YoryoDev"><img height="150em" src="profile-summary-card-output/aura/1-repos-per-language.svg" alt="Top languages by repo" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YoryoDev"><img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YoryoDev&theme=aura" alt="Stats" /></a>
-  <a href="https://github.com/YoryoDev"><img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YoryoDev&theme=aura&utcOffset=-4" alt="Commit times" /></a>
+  <a href="https://github.com/YoryoDev"><img height="150em" src="profile-summary-card-output/aura/3-stats.svg" alt="Stats" /></a>
+  <a href="https://github.com/YoryoDev"><img height="150em" src="profile-summary-card-output/aura/4-productive-time.svg" alt="Commit times" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YoryoDev"><img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoryoDev&theme=aura" alt="Profile details" /></a>
+  <a href="https://github.com/YoryoDev"><img height="150em" src="profile-summary-card-output/aura/0-profile-details.svg" alt="Profile details" /></a>
 </p>
 
 ## 📫 Contact
