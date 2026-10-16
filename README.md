@@ -56,17 +56,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YoryoDev"><img height="150em" src="profile-summary-card-output/aura/2-most-commit-language.svg" alt="Lenguajes por commit" /></a>
-  <a href="https://github.com/YoryoDev"><img height="150em" src="profile-summary-card-output/aura/1-repos-per-language.svg" alt="Lenguajes por repositorio" /></a>
+  <a href="https://github.com/YoryoDev"><img height="150em" src="profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Lenguajes por commit" /></a>
+  <a href="https://github.com/YoryoDev"><img height="150em" src="profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Lenguajes por repositorio" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YoryoDev"><img height="150em" src="profile-summary-card-output/aura/3-stats.svg" alt="Estadísticas" /></a>
-  <a href="https://github.com/YoryoDev"><img height="150em" src="profile-summary-card-output/aura/4-productive-time.svg" alt="Horario de commits" /></a>
+  <a href="https://github.com/YoryoDev"><img height="150em" src="profile-summary-card-output/dracula/3-stats.svg" alt="Estadísticas" /></a>
+  <a href="https://github.com/YoryoDev"><img height="150em" src="profile-summary-card-output/dracula/4-productive-time.svg" alt="Horario de commits" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YoryoDev"><img height="150em" src="profile-summary-card-output/aura/0-profile-details.svg" alt="Detalles del perfil" /></a>
+  <a href="https://github.com/YoryoDev"><img height="150em" src="profile-summary-card-output/dracula/0-profile-details.svg" alt="Detalles del perfil" /></a>
 </p>
 
 ## 📫 Contacto
