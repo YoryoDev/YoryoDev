@@ -56,24 +56,24 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YoryoDev"><img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YoryoDev&theme=aura" alt="Lenguajes por commit" /></a>
-  <a href="https://github.com/YoryoDev"><img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YoryoDev&theme=aura" alt="Lenguajes por repositorio" /></a>
+  <a href="https://github.com/YoryoDev"><img height="150em" src="profile-summary-card-output/aura/2-most-commit-language.svg" alt="Lenguajes por commit" /></a>
+  <a href="https://github.com/YoryoDev"><img height="150em" src="profile-summary-card-output/aura/1-repos-per-language.svg" alt="Lenguajes por repositorio" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YoryoDev"><img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YoryoDev&theme=aura" alt="Estadísticas" /></a>
-  <a href="https://github.com/YoryoDev"><img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YoryoDev&theme=aura&utcOffset=-4" alt="Horario de commits" /></a>
+  <a href="https://github.com/YoryoDev"><img height="150em" src="profile-summary-card-output/aura/3-stats.svg" alt="Estadísticas" /></a>
+  <a href="https://github.com/YoryoDev"><img height="150em" src="profile-summary-card-output/aura/4-productive-time.svg" alt="Horario de commits" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YoryoDev"><img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoryoDev&theme=aura" alt="Detalles del perfil" /></a>
+  <a href="https://github.com/YoryoDev"><img height="150em" src="profile-summary-card-output/aura/0-profile-details.svg" alt="Detalles del perfil" /></a>
 </p>
 
 ## 📫 Contacto
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giorgio-sebastian-lopez-poiqui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gsebaslp)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gsebas.0702lp@gmail.com)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer" alt="footer" />

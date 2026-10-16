@@ -101,7 +101,7 @@ const ROWS = [
   ["Core.Database", "SQL Server · PostgreSQL · MySQL"],
   ["Core.Infra", "Docker · Linux · Bash"],
   ["Grid.Mail", "gsebas.0702lp@gmail.com"],
-  ["Grid.LinkedIn", "/in/giorgio-sebastian-lopez-poiqui"],
+  ["Grid.LinkedIn", "/in/gsebaslp"],
   ["Grid.GitHub", "YoryoDev"],
 ];
 
